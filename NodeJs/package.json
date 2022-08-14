@@ -1,0 +1,11 @@
+{
+    "name": "greetings-app",
+    "dependencies": {
+        "express": "^4.12.3"
+      },
+      "engines": {
+        "node": ">=4"
+      }
+
+
+}
